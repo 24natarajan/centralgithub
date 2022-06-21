@@ -1,0 +1,6 @@
+The four phases of DevOps
+As DevOps has evolved, so has its complexity. This complexity is driven by two factors:
+
+Organizations are moving from monolithic architectures to microservices architectures. As DevOps matures, organizations need more and more DevOps tools per project.
+
+The result of more projects and more tools per project has been an exponential increase in the number of project-tool integrations. This necessitated a change in the way organizations adopted DevOps tools.
